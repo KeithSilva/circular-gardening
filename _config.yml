@@ -1,2 +1,3 @@
 name: Puddle Jumper
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
