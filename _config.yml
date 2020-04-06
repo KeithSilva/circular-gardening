@@ -1,3 +1,9 @@
 name: Puddle Jumper
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+title: Keithsilva.GitHub.io
+description: This is a test.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
